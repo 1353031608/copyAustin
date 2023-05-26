@@ -1,0 +1,14 @@
+2023-05-04 14:11:01.418 [main] INFO  com.alin.messageByme.MessageBymeApplication - Starting MessageBymeApplication using Java 1.8.0_191 on DESKTOP-EL9ROHR with PID 16440 (C:\Program Files\IdeaProjects\messageByme\web\target\classes started by user in C:\Program Files\IdeaProjects\messageByme)
+2023-05-04 14:11:01.421 [main] INFO  com.alin.messageByme.MessageBymeApplication - No active profile set, falling back to default profiles: default
+2023-05-04 14:11:02.660 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-04 14:11:02.702 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 JPA repository interfaces.
+2023-05-04 14:11:03.402 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-05-04 14:11:03.413 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-04 14:11:03.414 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-04 14:11:03.414 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-05-04 14:11:03.572 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-04 14:11:03.572 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2076 ms
+2023-05-04 14:11:03.645 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-05-04 14:11:03.661 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
