@@ -18,10 +18,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lin</groupId>
-    <artifactId>messageByme</artifactId>
+    <artifactId>message</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>messageByme</name>
-    <description>messageByme</description>
+    <name>message</name>
+    <description>message</description>
     <properties>
         <java.version>8</java.version>
     </properties>

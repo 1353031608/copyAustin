@@ -1,4 +1,4 @@
-package com.alin.messageByme;
+package com.alin.message;
 
 /**
  * @Author：raozl
